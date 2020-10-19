@@ -32,7 +32,7 @@ fixNumber(number, functionToExecute);
 #### Example
 
 ```javascript
-import { fixNumber } from "numbers-allow-comma";
+const { fixNumber } = require("numbers-allow-comma");
 
 let string = "3,25";
 
@@ -43,7 +43,7 @@ num.typeof(); // Will return number
 ###### With a function
 
 ```javascript
-import { fixNumber } from "numbers-allow-comma";
+const { fixNumber } = require("numbers-allow-comma");
 
 let string = "3,25";
 
