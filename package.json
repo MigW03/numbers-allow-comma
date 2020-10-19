@@ -1,0 +1,9 @@
+{
+  "name": "numbers-allow-comma",
+  "version": "1.0.0",
+  "description": "Node module that allow the user to use a nmber with comma.",
+  "main": "index.js",
+  "keywords": ["Numbers", "Comma"],
+  "author": "Miguel Weber",
+  "license": "ISC"
+}
